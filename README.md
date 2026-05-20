@@ -16,4 +16,5 @@ Backend engineer who likes shipping things end-to-end — APIs, web apps, and th
 ## Contact
 
 - LinkedIn — [tyron-nhat-anh](https://www.linkedin.com/in/tyron-nhat-anh-a484a4154/)
-- Email — tyron.nguyen@gogox.com
+- Email — nguyennhatanh96@gmail.com
+- Phone/Zalo - 0976083648
