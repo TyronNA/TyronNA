@@ -12,8 +12,8 @@ Full-stack engineer from Vietnam. I ship things end-to-end — the API, the web 
 **[Tales of Ascension](https://play.google.com/store/apps/details?id=com.mgho.app)** · live on Google Play
 Solo-built wuxia auto-battler card RPG. Next.js + Capacitor client, Go + PostgreSQL backend, Cocos Creator 3.8 combat engine.
 
-**[Bàn Ráp](https://bibaplay.com)** · free, in Vietnamese
-Self-study electronics course for beginners — Ohm's law to ESP32 to robots. Every lesson has step-by-step breadboard pictures and a circuit simulator.
+**[Bàn Ráp](https://bibaplay.com)** · free, in Vietnamese · open source — [code](https://github.com/TyronNA/bibaplay)
+Self-study electronics course for beginners — Ohm's law to ESP32 to robots. Every lesson has step-by-step breadboard pictures and a circuit simulator. The repo also holds the ESP32 robot firmware and its Gemini Live voice server.
 
 ## AI pipelines
 
