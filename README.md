@@ -2,6 +2,11 @@
 
 Full-stack engineer from Vietnam. I ship things end-to-end — the API, the web app, the deploy — and lately I build a lot of them *with* AI agents rather than around them.
 
+## 🌱 Currently learning
+
+- **Robotics** — working up from electronics basics to ESP32 to small robots: sensors, motors, lithium power, an on-device voice assistant. I write up what I learn as [Bàn Ráp](https://bibaplay.com).
+- **AI agents** — multi-agent orchestration, tool permissions and human-in-the-loop gates, keeping long-running agents cheap and safe to leave alone.
+
 ## Games & products
 
 **[Tales of Ascension](https://play.google.com/store/apps/details?id=com.mgho.app)** · live on Google Play
